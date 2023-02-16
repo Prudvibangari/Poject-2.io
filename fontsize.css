@@ -1,0 +1,12 @@
+#main-heading{
+    transform: translate(100px,200px);
+    color: black;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    position: fixed;
+}
